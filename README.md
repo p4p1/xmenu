@@ -2,6 +2,8 @@
   <img src="/demo.gif", title="demo"/>
 </p>		 
 
+_This fork is now maintained [here](https://github.com/p3ng0s/xmenu)_
+
 # XMenu
 
 XMenu is a menu utility for X.
